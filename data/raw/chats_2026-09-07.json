@@ -1,5 +1,63 @@
 [
   {
+    "chat_id": "6a9e7114240c7fd8a4cd",
+    "state": "opened",
+    "created_at": 1788768532153,
+    "first_opened_at": 1788768532505,
+    "opened_at": 1788768532505,
+    "closed_at": null,
+    "tags": [],
+    "parsed_tags": [],
+    "assignee": "김태훈",
+    "assignee_id": "565238",
+    "channel_id": "183570",
+    "tag_combinations": []
+  },
+  {
+    "chat_id": "6a9e0e939695d6e87aaf",
+    "state": "opened",
+    "created_at": 1788743315623,
+    "first_opened_at": 1788743345308,
+    "opened_at": 1788789086127,
+    "closed_at": 1788745787799,
+    "tags": [
+      "유선IVR",
+      "문의/Q6_환불요청",
+      "처리/M1_답변대기"
+    ],
+    "parsed_tags": [
+      {
+        "raw": "유선IVR",
+        "category": "기타",
+        "code": "유선IVR",
+        "name": "",
+        "prefix": ""
+      },
+      {
+        "raw": "문의/Q6_환불요청",
+        "category": "문의",
+        "code": "Q6",
+        "name": "환불요청",
+        "prefix": "Q"
+      },
+      {
+        "raw": "처리/M1_답변대기",
+        "category": "처리",
+        "code": "M1",
+        "name": "답변대기",
+        "prefix": "M"
+      }
+    ],
+    "assignee": "김태훈",
+    "assignee_id": "565238",
+    "channel_id": "183570",
+    "tag_combinations": [
+      "유선IVR & 문의/Q6_환불요청",
+      "유선IVR & 처리/M1_답변대기",
+      "문의/Q6_환불요청 & 처리/M1_답변대기"
+    ]
+  },
+  {
     "chat_id": "6a9e7164f402674b55d5",
     "state": "opened",
     "created_at": 1788768613006,
@@ -196,20 +254,6 @@
       "문의/Q4_지급관련 & 처리/M8_재청구",
       "안내/A4_지급관련 & 처리/M8_재청구"
     ]
-  },
-  {
-    "chat_id": "6a9e7114240c7fd8a4cd",
-    "state": "opened",
-    "created_at": 1788768532153,
-    "first_opened_at": 1788768532505,
-    "opened_at": 1788768532505,
-    "closed_at": null,
-    "tags": [],
-    "parsed_tags": [],
-    "assignee": "김태훈",
-    "assignee_id": "565238",
-    "channel_id": "183570",
-    "tag_combinations": []
   },
   {
     "chat_id": "6a9e6cf924c938ba64f5",
