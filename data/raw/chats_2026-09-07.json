@@ -388,86 +388,6 @@
     ]
   },
   {
-    "chat_id": "6a9e20b3c63f68aba172",
-    "state": "closed",
-    "created_at": 1788747955818,
-    "first_opened_at": 1788748630566,
-    "opened_at": 1788768940401,
-    "closed_at": 1788769288896,
-    "tags": [
-      "유선IVR",
-      "문의/Q6_환불요청",
-      "안내/A6_환불요청",
-      "처리/M1_답변대기",
-      "환불/RP_부분환불",
-      "환불/R11_중복신청"
-    ],
-    "parsed_tags": [
-      {
-        "raw": "유선IVR",
-        "category": "기타",
-        "code": "유선IVR",
-        "name": "",
-        "prefix": ""
-      },
-      {
-        "raw": "문의/Q6_환불요청",
-        "category": "문의",
-        "code": "Q6",
-        "name": "환불요청",
-        "prefix": "Q"
-      },
-      {
-        "raw": "안내/A6_환불요청",
-        "category": "안내",
-        "code": "A6",
-        "name": "환불요청",
-        "prefix": "A"
-      },
-      {
-        "raw": "처리/M1_답변대기",
-        "category": "처리",
-        "code": "M1",
-        "name": "답변대기",
-        "prefix": "M"
-      },
-      {
-        "raw": "환불/RP_부분환불",
-        "category": "환불",
-        "code": "RP",
-        "name": "부분환불",
-        "prefix": "R"
-      },
-      {
-        "raw": "환불/R11_중복신청",
-        "category": "환불",
-        "code": "R11",
-        "name": "중복신청",
-        "prefix": "R"
-      }
-    ],
-    "assignee": "남규민",
-    "assignee_id": "668885",
-    "channel_id": "183570",
-    "tag_combinations": [
-      "유선IVR & 문의/Q6_환불요청",
-      "유선IVR & 안내/A6_환불요청",
-      "유선IVR & 처리/M1_답변대기",
-      "유선IVR & 환불/RP_부분환불",
-      "유선IVR & 환불/R11_중복신청",
-      "문의/Q6_환불요청 & 안내/A6_환불요청",
-      "문의/Q6_환불요청 & 처리/M1_답변대기",
-      "문의/Q6_환불요청 & 환불/RP_부분환불",
-      "문의/Q6_환불요청 & 환불/R11_중복신청",
-      "안내/A6_환불요청 & 처리/M1_답변대기",
-      "안내/A6_환불요청 & 환불/RP_부분환불",
-      "안내/A6_환불요청 & 환불/R11_중복신청",
-      "처리/M1_답변대기 & 환불/RP_부분환불",
-      "처리/M1_답변대기 & 환불/R11_중복신청",
-      "환불/RP_부분환불 & 환불/R11_중복신청"
-    ]
-  },
-  {
     "chat_id": "6a9e66d32ba244fe52e1",
     "state": "closed",
     "created_at": 1788765907190,
@@ -7553,40 +7473,6 @@
     ]
   },
   {
-    "chat_id": "6a9e4d827dfe6ebb4c43",
-    "state": "closed",
-    "created_at": 1788759426522,
-    "first_opened_at": 1788759681419,
-    "opened_at": 1788762152015,
-    "closed_at": 1788763352756,
-    "tags": [
-      "문의/Q9_보험사변경",
-      "안내/A9_보험사변경"
-    ],
-    "parsed_tags": [
-      {
-        "raw": "문의/Q9_보험사변경",
-        "category": "문의",
-        "code": "Q9",
-        "name": "보험사변경",
-        "prefix": "Q"
-      },
-      {
-        "raw": "안내/A9_보험사변경",
-        "category": "안내",
-        "code": "A9",
-        "name": "보험사변경",
-        "prefix": "A"
-      }
-    ],
-    "assignee": "남규민",
-    "assignee_id": "668885",
-    "channel_id": "183570",
-    "tag_combinations": [
-      "문의/Q9_보험사변경 & 안내/A9_보험사변경"
-    ]
-  },
-  {
     "chat_id": "6a9e57e855f663818c7d",
     "state": "closed",
     "created_at": 1788762088358,
@@ -14294,40 +14180,6 @@
       "환불/R5_지급불가항목 & 환불/RP_부분환불",
       "환불/R5_지급불가항목 & 안내/A4_지급관련",
       "환불/RP_부분환불 & 안내/A4_지급관련"
-    ]
-  },
-  {
-    "chat_id": "6a9e28e59e6e2207f7c6",
-    "state": "closed",
-    "created_at": 1788750053653,
-    "first_opened_at": 1788750337335,
-    "opened_at": 1788750337335,
-    "closed_at": 1788751226769,
-    "tags": [
-      "문의/Q6_환불요청",
-      "처리/M1_답변대기"
-    ],
-    "parsed_tags": [
-      {
-        "raw": "문의/Q6_환불요청",
-        "category": "문의",
-        "code": "Q6",
-        "name": "환불요청",
-        "prefix": "Q"
-      },
-      {
-        "raw": "처리/M1_답변대기",
-        "category": "처리",
-        "code": "M1",
-        "name": "답변대기",
-        "prefix": "M"
-      }
-    ],
-    "assignee": "조윤조",
-    "assignee_id": "609327",
-    "channel_id": "183570",
-    "tag_combinations": [
-      "문의/Q6_환불요청 & 처리/M1_답변대기"
     ]
   },
   {
