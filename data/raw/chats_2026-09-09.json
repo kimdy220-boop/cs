@@ -1,5 +1,39 @@
 [
   {
+    "chat_id": "6aa0dd74ca21c8ee7761",
+    "state": "opened",
+    "created_at": 1788927348834,
+    "first_opened_at": 1788927349187,
+    "opened_at": 1788957824366,
+    "closed_at": 1788927952707,
+    "tags": [
+      "문의/Q6_환불요청",
+      "처리/M1_답변대기"
+    ],
+    "parsed_tags": [
+      {
+        "raw": "문의/Q6_환불요청",
+        "category": "문의",
+        "code": "Q6",
+        "name": "환불요청",
+        "prefix": "Q"
+      },
+      {
+        "raw": "처리/M1_답변대기",
+        "category": "처리",
+        "code": "M1",
+        "name": "답변대기",
+        "prefix": "M"
+      }
+    ],
+    "assignee": "김동아",
+    "assignee_id": "636057",
+    "channel_id": "183570",
+    "tag_combinations": [
+      "문의/Q6_환불요청 & 처리/M1_답변대기"
+    ]
+  },
+  {
     "chat_id": "6aa1251710130ab6f468",
     "state": "opened",
     "created_at": 1788945687072,
@@ -11781,40 +11815,6 @@
     "first_opened_at": 1788927587271,
     "opened_at": 1788927587271,
     "closed_at": 1788928190738,
-    "tags": [
-      "문의/Q6_환불요청",
-      "처리/M1_답변대기"
-    ],
-    "parsed_tags": [
-      {
-        "raw": "문의/Q6_환불요청",
-        "category": "문의",
-        "code": "Q6",
-        "name": "환불요청",
-        "prefix": "Q"
-      },
-      {
-        "raw": "처리/M1_답변대기",
-        "category": "처리",
-        "code": "M1",
-        "name": "답변대기",
-        "prefix": "M"
-      }
-    ],
-    "assignee": "김동아",
-    "assignee_id": "636057",
-    "channel_id": "183570",
-    "tag_combinations": [
-      "문의/Q6_환불요청 & 처리/M1_답변대기"
-    ]
-  },
-  {
-    "chat_id": "6aa0dd74ca21c8ee7761",
-    "state": "closed",
-    "created_at": 1788927348834,
-    "first_opened_at": 1788927349187,
-    "opened_at": 1788927349187,
-    "closed_at": 1788927952707,
     "tags": [
       "문의/Q6_환불요청",
       "처리/M1_답변대기"
